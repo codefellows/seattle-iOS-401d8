@@ -1,8 +1,7 @@
 #iOS 401
 
 ##Course Specific Resources
-* [iOS 401d8 Assignment Repositories]()
-* [*iOS 401d8* Canvas]()
+* [*iOS 401d8* Canvas](https://canvas.instructure.com)
 * [*CourseID* Prework Repository](https://github.com/codefellows/code-401-iOS-prework.git)
 
 
