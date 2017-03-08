@@ -8,17 +8,9 @@ Create a Playground including the following:
 
 ##Reading Assignment:
 * Swift Programming Guide
-	* Variables & Constants
-	* Numeric Types & Operations
-	* Strings
-	* Making Decisions
-	* Repeating Steps
-	* Functions
-	* Closures
-	* Optionals
   * Arrays
-  * Dictionaries
-  * Sets
+	* Dictionaries
+	* Sets
 
 ##Other Resources
 * [Grading Rubrics](../../resources/)
