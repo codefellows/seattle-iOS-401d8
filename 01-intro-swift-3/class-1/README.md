@@ -8,7 +8,7 @@ Create a Playground including the following:
 
 ##Reading Assignment:  
 * Swift Programming Guide  
-  * Arrays  
+	* Arrays  
 	* Dictionaries  
 	* Sets  
 
