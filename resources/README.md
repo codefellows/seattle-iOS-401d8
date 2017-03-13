@@ -7,7 +7,7 @@
 * [Reading Assingment Grading Rubric](reading-discussion-grading-rubric.md)
 
 ###Course Materials:
-* [Prework Repository](https://github.com/codefellows/iOS401-prework) - Make sure you are familiar with each of the topics covered in the Pre-Work Repository.
+* [Prework Repository](https://github.com/codefellows/code-401-iOS-prework) - Make sure you are familiar with each of the topics covered in the Pre-Work Repository.
 * [Code Fellows Panel](https://panel.codefellows.org/) - Code Fellows Panel to fill out weekly surveys and view other course details.
 * [Slack](https://slack.com/apps) - Course communication tool.
 * [Canvas](https://canvas.instructure.com/) - Primary Course tool used for submitting assignments, view assigment/course grades, etc.
