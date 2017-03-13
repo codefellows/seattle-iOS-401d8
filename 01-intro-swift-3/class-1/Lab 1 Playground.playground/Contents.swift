@@ -13,8 +13,6 @@ func nameAndAge(name: String, age: Int = 0) -> String {
 nameAndAge(name: "Mike", age: 37)
 nameAndAge(name: "Mike")
 
-// Write a function that takes in a string, checks if it can be converted to a Float, and returns a optional Float
-
 
 // Write a function that takes in a tuple (Int, Int) and returns the sum of the 2 values as Int
 
