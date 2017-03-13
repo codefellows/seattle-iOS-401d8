@@ -7,7 +7,6 @@ Create a Playground including the following:
 * Write a function that take in a String, and returns a message: “String contains *n* characters”  
 * Write a function that takes in a string and reverses it.  
 
- 
 ##Reading Assignment:  
 * Swift Programming Guide  
 	* Arrays  
