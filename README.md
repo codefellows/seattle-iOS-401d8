@@ -155,8 +155,8 @@ Objective-C Project Week Project Ideas
 TBD.  
 
 ##[Class Resources:](../resources/)
-* [Lab Submission Guide](../resources/lab-submission-guide.md)
-* [Homework Grading Standard](../resources/homework-grading-rubric.md)
-* [Whiteboarding Grading Standard](../resources/whiteboarding-grading-rubric.md)
-* [Project Week Grading Standard](../resources/project-week-grading-rubric.md)
-* [Reading Assignment Grading Standard](../resources/reading-discussion-grading-rubric.md)
+* [Lab Submission Guide](https://github.com/codefellows/seattle-iOS-401d8/blob/master/resources/lab-submission-guide.md)
+* [Homework Grading Standard](https://github.com/codefellows/seattle-iOS-401d8/blob/master/resources/homework-grading-rubric.md)
+* [Whiteboarding Grading Standard](https://github.com/codefellows/seattle-iOS-401d8/blob/master/resources/whiteboarding-grading-rubric.md)
+* [Project Week Grading Standard](https://github.com/codefellows/seattle-iOS-401d8/blob/master/resources/project-week-grading-rubric.md)
+* [Reading Assignment Grading Standard](https://github.com/codefellows/seattle-iOS-401d8/blob/master/resources/reading-discussion-grading-rubric.md)
