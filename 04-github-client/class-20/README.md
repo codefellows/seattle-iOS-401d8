@@ -1,9 +1,9 @@
-#Week 4 - Class 5
+# Week 4 - Class 5
 
-##Lab Assignment
+## Lab Assignment
 * **Project Week Preparation**
 
-##Other Resources
+## Other Resources
 * [Grading Rubrics](../../resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides]()

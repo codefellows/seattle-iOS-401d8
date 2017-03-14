@@ -1,13 +1,13 @@
-#Week 9 - Class 3
-##Homework
+# Week 9 - Class 3
+## Homework
 
 * Today dedicated to group projects - head start.
 
-###Reading Assignment
+### Reading Assignment
 * Programming in Objective-C
   * **Chapter 13:** Underlying C Language Features: Pointers, Misc Lang Features, How Things Work
 
-##Other Resources
+## Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)

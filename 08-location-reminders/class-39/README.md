@@ -1,16 +1,16 @@
-#Week 8 - Class 4
-##Homework
+# Week 8 - Class 4
+## Homework
 * Write unit tests for your Model objects.
 * Implement analytics into your app.
 * Migrate your existing model into a new model with at least one new attribute.
 * **Bonus:**
 	* Localize your app for another language (your pick).
 
-###Reading Assignment:
+### Reading Assignment:
 * [Unit Testing - NSHipster](http://nshipster.com/unit-testing/)
 
 
-##Other Resources
+## Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)

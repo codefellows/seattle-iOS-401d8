@@ -1,6 +1,6 @@
-#Week 9 - Class 5
+# Week 9 - Class 5
 
-##Other Resources
+## Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
 * [Lecture Resources](lecture/)
