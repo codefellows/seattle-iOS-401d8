@@ -6,6 +6,10 @@
 * Declare a dictionary of String keys, and String values. Declare a function that takes in a String and searches dictionary for it as a value.  
 * Write a function that counts repeating words in an array of strings, and prints out the count of each  
 
+### Stretch Goal  
+* Write a function that takes in a String, checks if it can be converted to a Float, and returns a optional Float
+
+
 ## Reading Assignment:  
 * Swift Programming Guide
   * [Classes & Structures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html)  
