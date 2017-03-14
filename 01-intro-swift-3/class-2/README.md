@@ -7,10 +7,9 @@
 
 ##Reading Assignment:
 * Swift Programming Guide
-  * Structures
-  * Classes
-  * Protocols
-  * Protocol-oriented Programming
+  * [Classes & Structures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html)  
+  * [Protocols](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html)
+  * [Protocol-oriented Programming WWDC Video](https://developer.apple.com/videos/play/wwdc2015/408/)
 
 ##Other Resources
 * [Grading Rubrics](../../resources/)
