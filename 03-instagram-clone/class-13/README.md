@@ -1,5 +1,5 @@
-#Week 3 - Class 3  
-##Homework  
+# Week 3 - Class 3  
+## Homework  
 * Build a call to CloudKit to get all images uploaded.  
 * Create a GalleryViewController designed to show uploaded images.  
 * Add a collection view to the interface.  
@@ -11,13 +11,13 @@
 * **Code Challenge:**  
 	* Write a function that computes the list of the first 100 Fibonacci numbers.(This is trickier than it seems).  
 
-###Reading:  
+### Reading:  
 * Apple Documentation:  
 	* [UIGestureRecognizer](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIGestureRecognizer_Class/index.html#//apple_ref/occ/cl/UIGestureRecognizer)  
 	* [Photos Framework](https://developer.apple.com/library/ios/documentation/Photos/Reference/Photos_Framework/index.html)  
 	* [SLComposeController](https://developer.apple.com/library/ios/documentation/NetworkingInternet/Reference/SLComposeViewController_Class/index.html)  
 
-##Other Resources
+## Other Resources
 * [Grading Rubrics](../../resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000m4LBd0MejMf8HT5gD5aU3g#Week3_Day3)  
