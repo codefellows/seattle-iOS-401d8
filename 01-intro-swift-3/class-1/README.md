@@ -14,6 +14,6 @@ Create a Playground including the following:
 
 ##Other Resources  
 * [Grading Rubrics](../../resources/)  
-* [Lecture Resources](lecture/)  
+* [Lecture Resources](../lecture/)  
 * [Lecture Slides](https://www.icloud.com/keynote/000xQyeffQnMUjdd1Uvy14R6Q#Week1_Day1)  
 * [Onboarding Slides](https://www.icloud.com/keynote/000Zv6V3aBc4CDBRu_eIKlEmQ#Onboarding)  
