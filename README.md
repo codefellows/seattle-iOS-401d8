@@ -17,7 +17,7 @@ This will be followed with a week long project build by student teams and writte
 ##Instructional Staff
 * **Adam Wallraff - Lead Instructor**  
 * Erica Winberry - Lead TA  
-* Roman Salazar - TA  
+* Jeremy Moore - TA  
 * TBD - TA  
 
 ###At the end of this course, you will be able to:
