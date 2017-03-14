@@ -1,5 +1,5 @@
-##Week 3 - Class 4  
-##Homework  
+## Week 3 - Class 4  
+## Homework  
 * Implement collection view on a new FiltersPreviewViewController to display all available filters already pre-applied to the image.  
 * Create an additional UICollectionViewCell subclass that has a label to display info about the filter being previewed.  
 * Show / Hide FiltersPreviewViewController in place of Action Sheet.  
@@ -9,11 +9,11 @@
 
 * Use `SLComposeViewController` to share images to one of the supported social networks.  
 
-###Reading Assignment:  
+### Reading Assignment:  
 * Cracking the coding Interview/Programming Interviews Exposed:  
   * Linked List  
 
-##Other Resources
+## Other Resources
 * [Grading Rubrics](../../resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000Jb3jQrKlkMaoFiZ5Nrlk8g#Week3_Day4)

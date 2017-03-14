@@ -1,9 +1,9 @@
-#Week 9: StackOverflow Client
+# Week 9: StackOverflow Client
 
-##Overview:
+## Overview:
 > We will create a StackOverflow Client.
 
-##Daily Breakdown
+## Daily Breakdown
   * [Class 41:](class-41/) Container View Controllers, OAuth & WebViews, NSError
   * [Class 42:](class-42/) CocoaPods, AFNetworking, GCD
   * [Class 43:](class-43/) Project Preparation
