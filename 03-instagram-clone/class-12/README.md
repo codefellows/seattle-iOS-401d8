@@ -1,5 +1,5 @@
-#Week 3 - Class 2  
-##Homework  
+# Week 3 - Class 2  
+## Homework  
 * Create `Post` Model Object.  
 * Add `ModelAdditions` to `Post` to create `CKRecord` from `Post`.  
 * Create an extension on `UIImage` that resizes an image to specified parameters.  
@@ -23,11 +23,11 @@
 	* Change from `Reset` to `Undo` and manually manage images to properly handle `Undo`ing of an applied filter.  
 * Embed the `HomeViewController` in a TabBarController.  
 
-###Reading Assignment:
+### Reading Assignment:
 * [UICollectionView](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UICollectionView_class/index.html)
 * [UICollectionViewFlowLayout](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UICollectionViewFlowLayout_class/)
 
-##Other Resources
+## Other Resources
 * [Grading Rubrics](../../resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000itEApKaUNewFvchS4Z7Vcw#Week3_Day2)
