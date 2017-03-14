@@ -1,5 +1,5 @@
-#Week 2 - Class 2
-##Homework
+# Week 2 - Class 2
+## Homework
 * Implement a new class called `API`:
 	* Use the Accounts framework to access the user's twitter account on the device
 	* Use the Social framework to make a request to twitter for the users home timeline
@@ -12,14 +12,14 @@
 * **Bonus:**
 	* Write your code to be able to handle multiple twitter accounts.
 
-###Reading Assignment:
+### Reading Assignment:
 * [Auto Layout](https://developer.apple.com/library/watchos/documentation/UserExperience/Conceptual/AutolayoutPG/Introduction/Introduction.html)
 * [UIActivityIndicator](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIActivityIndicatorView_Class/index.html)
 * [UINavigationController](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UINavigationController_Class/index.html)
 * [UIStoryboardSegue](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIStoryboardSegue_Class/)
 * [NSLayoutConstraint](https://developer.apple.com/library/mac/documentation/AppKit/Reference/NSLayoutConstraint_Class/index.html)
 
-##Other Resources
+## Other Resources
 * [Grading Rubrics](../../resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000uqYv8pF8GzEcQl1U3AEMqA#Week2_Day2)
