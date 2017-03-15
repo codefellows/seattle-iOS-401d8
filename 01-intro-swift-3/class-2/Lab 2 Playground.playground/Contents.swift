@@ -20,7 +20,6 @@ func addEarthIfMissing(_ input: [String]) -> [String] {
 }
 
 addEarthIfMissing(planets)
-
 addEarthIfMissing(planetsMissingEarth)
 
 
