@@ -1,5 +1,5 @@
-#Week 3 - Class 1
-##Homework
+# Week 3 - Class 1
+## Homework
 * Setup a new project, disable landscape in project settings **General > Deployment Info**.  
 * Enable CloudKit in your application, we will continue to build this out tomorrow.  
 * Layout an image view in the center of the screen using Auto Layout and change its background color.  
@@ -13,7 +13,7 @@
 * **Code Challenge:**
 	* Write a function that determines how many words there are in a sentence.  
 
-###Readings:
+### Readings:
 * Apple Documentation:
 	* [Core Image Programming Guide](https://developer.apple.com/library/ios/documentation/GraphicsImaging/Conceptual/CoreImaging/ci_intro/ci_intro.html)
 	* [CloudKit Refresh](https://developer.apple.com/library/ios/documentation/General/Conceptual/iCloudDesignGuide/DesigningforCloudKit/DesigningforCloudKit.html) - Refresh
@@ -21,7 +21,7 @@
 * General Concepts
 	* Animating Constraints
 
-##Other Resources
+## Other Resources
 * [Grading Rubrics](../../resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000zQVxi0EIEUbwpmakSgmxwA#Week3_Day1)

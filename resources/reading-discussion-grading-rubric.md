@@ -1,6 +1,6 @@
-##Readings Assignments
+## Readings Assignments
 
-####1.**___/5 points: Reading Assignment**
+#### 1.**___/5 points: Reading Assignment**
 
 Each reading will require you to include 2 pieces of information:
 

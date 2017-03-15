@@ -1,9 +1,9 @@
-#Week 6: Intro to Objective-C
+# Week 6: Intro to Objective-C
 
-##Overview
+## Overview
 >Introduction to the Objective-C language.
 
-##Daily Breakdown
+## Daily Breakdown
 * [Class 26:](class-26/) Introduction, Classes, Setters, Getters, and Looping.
 * [Class 27:](class-27/) Foundation, Numbers, Strings, Files, ARC/MRC
 * [Class 28:](class-28/) Instruments, Obj-C Runtime, Run Loops, Messaging *nil*

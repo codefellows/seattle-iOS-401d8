@@ -1,9 +1,9 @@
-#Week 8: CoreData Hotel Service
+# Week 8: CoreData Hotel Service
 
-##Overview:
+## Overview:
 >Students will be creating a Hotel Service, allowing them to book hotel rooms, see different hotels, etc.
 
-##Daily Breakdown
+## Daily Breakdown
   * [Class 36:](class-36/) Programmatic Layout, Relational Databases, Core Data
   * [Class 37:](class-37/) UIDatePicker, UIPickerView, Advanced Fetching
   * [Class 38:](class-38/) Unit Testing, TDD, NSFetchedResultsController

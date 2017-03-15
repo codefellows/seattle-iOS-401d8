@@ -1,5 +1,5 @@
-#Week 2 - Class 1
-##Homework
+# Week 2 - Class 1
+## Homework
 * Create Model  
 	* Create Tweet class  
 	* Create User class  
@@ -17,7 +17,7 @@
 * **Code Challenge:**  
 	* Write a function that reverses an array  
 
-###Reading Assignment:
+### Reading Assignment:
 * Apple Documentation:
 	* Accounts Framework
 	* Social Framework
@@ -28,7 +28,7 @@
 * Swift Programming Guide:
 	* Closures
 
-##Other Resources
+## Other Resources
 * [Grading Rubrics](../../resources/)
 * [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000JOeuDHWuUbUJrSdhFhQJcg#Week2_Day1)
