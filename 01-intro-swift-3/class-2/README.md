@@ -9,7 +9,6 @@
 ### Stretch Goal  
 * Write a function that takes in a String, checks if it can be converted to a Float, and returns a optional Float
 
-
 ## Reading Assignment:  
 * Swift Programming Guide
   * [Classes & Structures](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html)  
