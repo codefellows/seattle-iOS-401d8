@@ -6,7 +6,7 @@
   * Define `ObjectStore` protocol with these functions:` add(object:)`, `remove(object:)`, `objectAtIndex(index:)`, `count`, `allObjects`.
     * `ObjectStore` will need to have an array of `ToDo` objects to have access to.  
   * Create a `Store` class that will *conform* to `ObjectStore` protocol and implement required methods
-  * Demonstrate adding / removing of `ToDo` items.
+  * Demonstrate using all the methods from `ObjectStore` protocol on the `Store`'s `ToDo` array.
 
 ## Reading Assignment:
 * Swift Programming Guide
