@@ -1,7 +1,7 @@
 # Week 1 - Class 4
 ## Homework
 * Using Playgrounds…  
-  * Declare Enum. Your enum should have at least 5 cases and should use Associated Values for 3 of the 5 cases using the following types:  
+  * Declare an Enum. Your enum should have at least 5 cases and should use Associated Values for 3 of the 5 cases using the following types:  
     * String  
     * (Int, Int)  
     * ()->()  
