@@ -29,6 +29,7 @@ var test = ToDo(id: "Label", text: "Description")
 // Define ObjectStore protocol with these functions: add:, remove:, objectAtIndex:, count, allObjects
 
 protocol ObjectStore {
+    var contents : [ToDo] { get set }
     func add(label: String, description: String)
     func remove(label: String)
     func objectAtIndex(index: Int) -> String
