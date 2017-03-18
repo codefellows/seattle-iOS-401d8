@@ -12,7 +12,7 @@
  - Create Model objects including a class for `Tweet` and `User`.  
  - Organize your files in Xcode into proper MVC groups.  
  - Create your JSONParser class. Use the JSONParser class to parse the `tweet.json` file into `Tweet` objects.  
- 	- The `tweet.json` file is included in this repository located here: [Lecture Resources](lecture/lecture/tweet.json)  
+ 	- The `tweet.json` file is included in this repository located here: [Lecture Resources](lecture/tweet.json)  
  - Display tweets in a tableView. Do **not** use the same `Basic` cell style we used in class, instead use `Subtitle` to show the User's `name` String.  
  - Assign `ViewController.swift` to be the `dataSource` of `tableView` **programmatically**.  
  - Assign `ViewController.swift` to be the `delegate` of `tableView` and implement the `tableView(_ tableView:, didSelectRowAt indexPath:)` method. When a user clicks on a specific cell, `print()` the `indexPath.row` to the console.  
