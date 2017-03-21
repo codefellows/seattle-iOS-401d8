@@ -17,9 +17,9 @@
 		* Make sure to have individual cases for the `400-499` range, and the `500-599` range. Each of these cases should `print()` their case specific errors(either that the error is from our client, or the error is happening server-side.)  
  * Reload the `tableView` on the main thread (aka: main queue) once you are done parsing the JSON data from the request.  
  * **Stretch Goals:**  
- 	* Write your code to be able to handle multiple twitter accounts.  
-	* Using playgrounds, and `OperationQueue`:  
-	 * Demonstrate creating a serial queue.  
+ * Write your code to be able to handle multiple twitter accounts.  
+ * Using playgrounds, and `OperationQueue`:  
+ 	* Demonstrate creating a serial queue.  
 
 ## Submitting Your Assignment  
 
