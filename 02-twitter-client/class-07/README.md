@@ -15,7 +15,9 @@
  	* Use the Social framework to make a request to twitter for logged in user and create your model `User` object  
  	* Use a ranged switch statement to make sure the status code of the response is good  
 		* Make sure to have individual cases for the `400-499` range, and the `500-599` range. Each of these cases should `print()` their case specific errors(either that the error is from our client, or the error is happening server-side.)  
- * Reload the `tableView` on the main thread (aka: main queue) once you are done parsing the JSON data from the request.  
+ * Reload the `tableView` on the main thread (aka: main queue) once you are done parsing the JSON data from the request.
+ * Migrate the JSON parsing code from `getOAuthUser` to a type method on the `JSONParser` class.  
+ * Make sure to properly handle any force `try!` code in our `API` class from lecture, using the `do`, `try`, `catch` format.  
 #### Stretch Goals
  * Write your code to be able to handle multiple twitter accounts.  
  * Using playgrounds, and `OperationQueue`:  
