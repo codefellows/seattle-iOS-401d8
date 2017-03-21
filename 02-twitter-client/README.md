@@ -10,8 +10,8 @@ Students will be able to parse JSON returned from the Twitter API
 Students will have the skills needed to utilize the Accounts and Social frameworks
 
 ## Daily Breakdown
-* [Class 6:](class-6) MVC, Classes, Structs, JSON  
-* [Class 7:](class-7) Accounts and Social Frameworks, HTTP Status Codes, Switch Statements, MainQueue
-* [Class 8:](class-8) Autolayout, Passing Information between ViewControllers, Navigation Controller
-* [Class 9:](class-9) Lazy Properties, Additional API Endpoints, Nibs/Xibs
-* [Class 10:](class-10) Data Structures and Whiteboarding
+* [Class 6:](https://github.com/codefellows/seattle-iOS-401d8/tree/master/02-twitter-client/class-06) MVC, Classes, Structs, JSON  
+* [Class 7:](https://github.com/codefellows/seattle-iOS-401d8/tree/master/02-twitter-client/class-07) Accounts and Social Frameworks, HTTP Status Codes, Switch Statements, MainQueue
+* [Class 8:](https://github.com/codefellows/seattle-iOS-401d8/tree/master/02-twitter-client/class-08) Autolayout, Passing Information between ViewControllers, Navigation Controller
+* [Class 9:](https://github.com/codefellows/seattle-iOS-401d8/tree/master/02-twitter-client/class-09) Lazy Properties, Additional API Endpoints, Nibs/Xibs
+* [Class 10:](https://github.com/codefellows/seattle-iOS-401d8/tree/master/02-twitter-client/class-10) Data Structures and Whiteboarding
