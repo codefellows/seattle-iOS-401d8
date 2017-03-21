@@ -33,7 +33,7 @@
   - What observations or questions do you have about what you've learned so far?  
 4. Once you've submitted your work, complete the merge of `tuesday-lab` to `master`  
 
-### Reading Assignment:
+### Reading Assignment (read **before** Class 8):
 * [Auto Layout](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/AutolayoutPG/index.html)
 * [UIActivityIndicator](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIActivityIndicatorView_Class/index.html)
 * [UINavigationController](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UINavigationController_Class/index.html)
@@ -42,5 +42,4 @@
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000uqYv8pF8GzEcQl1U3AEMqA#Week2_Day2)
