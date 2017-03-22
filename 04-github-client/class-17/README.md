@@ -8,7 +8,7 @@
 * Your HomeViewController should display all the repositories in a TableView.  
 * Implement a UISearchBar on your tableView, to search your repositories.  
 
-## Reading Assignment:
+## Reading Assignment (read **before** Class 18):
 * Apple Documentation:
 	* [UIViewController Programming Guide](https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457-CH2-SW1)
 	* [UIView Animations Guide](https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/AnimatingViews/AnimatingViews.html#//apple_ref/doc/uid/TP40009503-CH6-SW1)
@@ -17,5 +17,4 @@
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000QTHpeeBGGo_aR7U3F-rjiA#Week4_Day2)

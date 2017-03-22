@@ -28,7 +28,7 @@
   - What observations or questions do you have about what you've learned so far?  
 4. Once you've submitted your work, complete the merge of `monday-lab` to `master`  
 
-### Reading Assignment:  
+### Reading Assignment (read **before** Class 7):  
 * Apple Documentation:  
 	* [Accounts Framework](https://developer.apple.com/reference/accounts)  
 	* [Social Framework](https://developer.apple.com/reference/social)  

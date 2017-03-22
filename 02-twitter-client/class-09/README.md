@@ -9,11 +9,10 @@
 * Import an image asset into the asset catalog.
 * Implement a UITableViewHeaderView on your `ViewController.swift` that displays the image added to the asset catalog.
 
-### Reading Assignment:
+### Reading Assignment (read **before** Class 10):
 * Cracking the coding Interview/Programming Interviews Exposed:
   * Linked Lists
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000KMDpLPEkp73gzYutBM0RZQ#Week2_Day4)

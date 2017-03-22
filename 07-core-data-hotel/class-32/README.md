@@ -7,7 +7,7 @@
 * **Code Challenge:**
 	* Write a method that detects if two strings are anagrams.
 
-### Reading Assignment:
+### Reading Assignment (read **before** Class 33):
 * Programming in Objective-C
   * **Chapter 10:** More on Variables and Data Types
 * Apple Documentation
@@ -15,5 +15,4 @@
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/0002PSxT891quC_xyaHmdrCYg#Week7_Day2)

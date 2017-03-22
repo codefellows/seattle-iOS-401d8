@@ -7,7 +7,7 @@
   * Add a searchBar to each viewController's tableView.
   * Searches should display results in the tableView.
 
-### Reading Assignment:
+### Reading Assignment (read **before** Class 43):
 * Programming in Objective-C
   * **Chapter 13:** Underlying C Language Features: Blocks, Structures
 
@@ -15,6 +15,5 @@
 ## Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/0005bZ5p2V9hNHM9kWaMEr8mA#Week9_Day2)
 * Documentation for `/users` endpoint: [http://api.stackexchange.com/docs/users](http://api.stackexchange.com/docs/users)

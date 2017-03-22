@@ -1,6 +1,6 @@
 # Week 6 - Class 5
 
-### Reading Assignment:
+### Reading Assignment (read **before** Class 31):
 * Programming in Objective-C:
   * **Chapter 4:** Data Types and Expressions
   * **Chapter 5:** Program Looping
@@ -9,7 +9,6 @@
   * **Chapter 11:** Categories and Protocols
 * Apple Documentation
   * MapKit
-
 
 ### Coding Challenges
 * Implement Binary Search Tree with these functionalities:
@@ -21,5 +20,4 @@
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides]()

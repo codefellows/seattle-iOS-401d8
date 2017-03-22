@@ -9,7 +9,7 @@
 * Define Setter and Getter methods for the above values.  
 * Create a function that takes in an NSArray of People and using a for-loop, prints their names to the console.  
 
-### Reading Assignment:
+### Reading Assignment (read **before** Class 27):
 * Programming in Objective-C
   * **Chapter 2:** Programming in Objective-C
   * **Chapter 3:** Objects, Classes, Methods
@@ -18,5 +18,4 @@
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000T-vKYDs7Yau3UJNHq2URgA#Week6_Day1)
