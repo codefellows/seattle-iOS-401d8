@@ -22,7 +22,7 @@
  * Write your code to be able to handle multiple twitter accounts.  
  * Using playgrounds, and `OperationQueue`:  
  	* Demonstrate creating a serial queue.
- * Refactor your `typealias` completionhandlers, in the `API` class, to be an `Enum` holding each closure as an associated value.   
+ * Refactor your `typealias` completionhandlers, in the `API` class, to be an Enum, each case holding a closure as an associated value.
 
 ## Submitting Your Assignment  
 
