@@ -1,12 +1,28 @@
-# Week 2 - Class 3
-## Homework
-* Setup your cells with Auto Layout so you can see the entire tweet's text. If you get any `...` at the end that is probably twitters API being annoying.
-* Create a 2nd UIViewController that shows an individual tweet in detail
-* Upon clicking a tweet, your interface should push to the 2nd UIViewController that displays the tweet's details, using labels instead of `print()` statements. Also, a few other caveats:
-  * If the tweet that was selected is a retweet, you should let the user know in some way.
-  * This information is available in the JSON, you just have to go digging for it and add a property to your Tweet class.
-* Create a ProfileViewController that when presented, shows the logged in user's profile information. Utilize the NavigationBar to add a button to present this new viewController.
-* Programmatically support dynamic type in your `ViewController.swift` class.  
+# Assignment Overview: Lab for Class 8 - Twitter Clone  
+
+## User Stories (MVP)  
+ - As a developer, I want to utilize UIKit to build out an application to help work towards a better understanding of Apple's primary UI framework.  
+
+## Technical Requirements  
+ * Continue to work from the same repository.  
+ * Working on a non-master branch, called, `wednesday-lab` with regular commit history  
+ * Setup your cells with Auto Layout so you can see the entire tweet's text. If you get any `...` at the end that is probably twitters API being annoying.
+ * Create a 2nd `UIViewController` that shows an individual tweet in detail
+ * Upon clicking a tweet, your interface should push to the 2nd `UIViewController` that displays the tweet's details, using labels instead of `print()` statements. Also, a few other caveats:
+   * If the tweet that was selected is a retweet, you should let the user know in some way.
+   * This information is available in the JSON, so you have to go digging for it and add a property to your Tweet class. HINT: This information should be in the `tweet.json` testing file as well to inspect
+ * Create a ProfileViewController that when presented, shows the logged in user's profile information. Utilize the NavigationBar to add a button to present this new viewController. This can be achieved using the `getOAuthUser` method we wrote yesterday to get the current user's information.  
+
+#### Stretch Goal  
+ * Programmatically support dynamic type in your `ViewController.swift` class.  
+
+## Submitting Your Assignment  
+1. When your work is complete and ready for submission, **open a Pull Request** from `wednesday-lab` to `master`.  
+2. Submit the link to the above Pull Request to Canvas  
+3. Add a comment to this Canvas submission with answers to the following questions.  
+  - How did this lab go, overall?  
+  - What observations or questions do you have about what you've learned so far?  
+4. Once you've submitted your work, complete the merge of `wednesday-lab` to `master`  
 
 ### Reading Assignment:
 * Apple Documentation:
@@ -16,5 +32,4 @@
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000clqbz13p8N-0ljiqMLD-0w#Week2_Day3)
