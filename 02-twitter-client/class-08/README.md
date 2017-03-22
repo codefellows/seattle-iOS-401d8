@@ -1,7 +1,10 @@
 # Assignment Overview: Lab for Class 8 - Twitter Clone  
 
 ## User Stories (MVP)  
- - As a developer, I want to utilize UIKit to build out an application to help work towards a better understanding of Apple's primary UI framework.  
+ - As a developer, I want to utilize UIKit to build out an application to help work towards a better understanding of Apple's primary UI framework. 
+ - As a user, I want to be able to view my own profile information, to be able to track my followers count and see where I am located.  
+ - As a user, I want to be able to click on a Tweet on my timeline, to see if it is a tweet or a retweet.  
+ - As a developer, I want to know how to use Auto Layout, to build well-structured and dynamic application UI/UX.  
 
 ## Technical Requirements  
  * Continue to work from the same repository.  
