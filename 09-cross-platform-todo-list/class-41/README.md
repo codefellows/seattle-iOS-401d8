@@ -7,7 +7,7 @@
 * Create your own custom NSError domain and error codes.
 * Implement Keychain to save the access_token securely instead of NSUserDefaults.
 
-### Reading Assignment:
+### Reading Assignment (read **before** Class 42):
 * Programming in Objective-C
   * **Chapter 13:** Underlying C Language Features : Arrays, Functions
 * Apple Documentation + Other
@@ -18,5 +18,4 @@
 ## Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000B9El9HQy5BwrbrqD5dl4oA#Week9_Day1)

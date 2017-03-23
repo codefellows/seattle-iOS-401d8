@@ -5,11 +5,10 @@
 * Upon creation of your reminder, upload to ParseServer.
 * On first launch, your app should fetch all reminders and display on the mapView.
 
-### Reading Assignment:
+### Reading Assignment (read **before** Class 35):
 * Cracking the coding Interview/Programming Interviews Exposed:
   * Hash Table
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000n52A4TyAjhlmU1PRkuZF1w#Week7_Day4)

@@ -8,7 +8,7 @@
 * **Code Challenge:**
 	* Given a string, return the sum of the digits 0-9 that appear in the string, ignoring all other characters. Return 0 if there are no digits in the string.
 
-### Reading Assignment:
+### Reading Assignment (read **before** Class 34):
 * Programming in Objective-C
   * Chapter 11: Categories and Protocols
 * Apple Documentation
@@ -17,5 +17,4 @@
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/0005TQgW199tOAhqmPAx-Wd8A#Week7_Day3)

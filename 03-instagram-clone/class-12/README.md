@@ -23,11 +23,10 @@
 	* Change from `Reset` to `Undo` and manually manage images to properly handle `Undo`ing of an applied filter.  
 * Embed the `HomeViewController` in a TabBarController.  
 
-### Reading Assignment:
+### Reading Assignment (read **before** Class 13):
 * [UICollectionView](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UICollectionView_class/index.html)
 * [UICollectionViewFlowLayout](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UICollectionViewFlowLayout_class/)
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000itEApKaUNewFvchS4Z7Vcw#Week3_Day2)
