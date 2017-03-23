@@ -8,7 +8,7 @@
  	* Specify the primary features of your app idea.
 	* What problem does this idea solve?
 
-### Readings:
+### Reading Assignment (read **before** Class 17):
 * GitHub API Documentation
 	* Explore some additional endpoints we did not cover in class.
 * [Bridging Objective-C and Swift](https://developer.apple.com/library/content/documentation/Swift/Conceptual/BuildingCocoaApps/MixandMatch.html)  
@@ -19,5 +19,4 @@
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000EtSMrX5WTirpvWCOKi-OSQ#Week4_Day1)

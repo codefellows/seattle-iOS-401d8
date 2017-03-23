@@ -7,7 +7,7 @@
 * **Bonus:**
 	* Separate your core data setup into a separate CoreDataStack Class.
 
-### Reading Assignment:
+### Reading Assignment (read **before** Class 39):
 * Apple Documentation + Other
   * [Core Data Migrations - OBJC](https://www.objc.io/issues/4-core-data/core-data-migration/)
   * [Using iCloud with Core Data - Apple](https://developer.apple.com/library/ios/documentation/DataManagement/Conceptual/UsingCoreDataWithiCloudPG/Introduction/Introduction.html)
@@ -16,5 +16,4 @@
 ## Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000iXofZ5F04tbkhY8euhC4Cw#Week8_Day3)

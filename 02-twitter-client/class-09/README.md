@@ -31,7 +31,7 @@
   - What observations or questions do you have about what you've learned so far?  
 4. Once you've submitted your work, complete the merge of `thrusday-lab` to `master`  
 
-### Reading Assignment:
+### Reading Assignment (read **before** Class 10):
 * Cracking the coding Interview, Programming Interviews Exposed, Swift Algorithm Club repository:
   * Stacks & Queues - look up these general topics in the above resources.  
 	* [Stacks](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Stack)  

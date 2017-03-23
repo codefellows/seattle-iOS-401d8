@@ -1,7 +1,7 @@
 # Week 4: GitHub Client
 
 ## Overview
->We will build our own GitHub Client that will use URLSession to build a connection to GitHub's API.
+We will build our own GitHub Client that will use URLSession to build a connection to GitHub's API.
 We will utilize OAuth, our AppDelegate, and UISearchBar to navigate the GitHub API. We will also be preparing for project week next week.
 
 ## Daily Breakdown
