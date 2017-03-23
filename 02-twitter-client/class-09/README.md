@@ -34,6 +34,8 @@
 ### Reading Assignment:
 * Cracking the coding Interview, Programming Interviews Exposed, Swift Algorithm Club repository:
   * Stacks & Queues - look up these general topics in the above resources.  
+	* [Stacks](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Stack)  
+	* [Queues](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Queue)  
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
