@@ -9,7 +9,7 @@
 ## Technical Requirements  
  * Continue to work from the same repository.  
  * Working on a non-master branch, called, `wednesday-lab` with regular commit history  
- * Setup your cells with Auto Layout so you can see the entire tweet's text. If you get any `...` at the end that is probably twitters API being annoying.
+ * Setup your cells with Auto Layout so you can see the entire tweet's text. If you get any `...` at the end that is probably Twitter's API being annoying.
  * Create a 2nd `UIViewController` that shows an individual tweet in detail
  * Comment out the `tableView(_:, didSelectRowAt:)` delegate method in your `HomeTimelineViewController`.  
  * Upon clicking a tweet, your interface should push to another `UIViewController` that displays the tweet's details, via a storyboard segue, using labels to present the tweet details to the user instead of `print()` statements. Also, a few other caveats:
