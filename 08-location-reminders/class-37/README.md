@@ -10,7 +10,7 @@
 	* Update UI to include fields for lastName and email in BookVC and setup constraints.
 	* Assign lastName and email to guest.
 
-### Reading Assignment:
+### Reading Assignment (read **before** Class 38):
 * Apple Documentation + Other
   * [Unit Testing Overview](https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/UnitTesting.html)
   * [Introduction to NSFetchedResults Controller](http://nshipster.com/unit-testing/)
@@ -18,5 +18,4 @@
 ## Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000fQdt4rvdN6s1yl9IyBrxRg#Week8_Day2)

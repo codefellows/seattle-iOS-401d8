@@ -3,7 +3,7 @@
 ## Data Structure and Whiteboarding  
 #### Big O & Pseudocode  
 
-## Reading Assignment:  
+## Reading Assignment (read **before** Class 6):  
 * General Concepts:
   * [MVC](https://developer.apple.com/library/ios/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html)
 * Apple Documentation:

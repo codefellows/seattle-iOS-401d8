@@ -8,12 +8,11 @@
 * In `ViewController.m`, inside `viewDidLoad`, create 5 unique instances of `User` and use a `NSMutableDictionary` to store them with their `email` as the key for the dictionary.  
 	* Remember to manually manage your memory for this.  
 
-### Reading Assignment:
+### Reading Assignment (read **before** Class 28):
 * Programming in Objective-C
   * **Chapter 16:** Working with Files
   * **Chapter 17:** Memory Management and Automatic Reference Counting
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000m0shf3CzsBXOPgyE5yadjw#Week6_Day2)

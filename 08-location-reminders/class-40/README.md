@@ -2,7 +2,7 @@
 
 ## PROFESSIONAL DEVELOPMENT DAY
 
-### Reading Assignment:
+### Reading Assignment (read **before** Class 41):
 * Apple Documentation
   * [Introduction to Container View Controllers](https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/ImplementingaContainerViewController.html)
   * [VIDEO: Session 102](https://developer.apple.com/videos/wwdc/2011/?id=102T) - Optional
@@ -13,5 +13,4 @@
 ## Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides]()

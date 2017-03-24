@@ -11,7 +11,7 @@
 * **Code Challenge:**  
 	* Write a function that computes the list of the first 100 Fibonacci numbers.(This is trickier than it seems).  
 
-### Reading:  
+### Reading Assignment (read **before** Class 14):  
 * Apple Documentation:  
 	* [UIGestureRecognizer](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIGestureRecognizer_Class/index.html#//apple_ref/occ/cl/UIGestureRecognizer)  
 	* [Photos Framework](https://developer.apple.com/library/ios/documentation/Photos/Reference/Photos_Framework/index.html)  
@@ -19,5 +19,4 @@
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000m4LBd0MejMf8HT5gD5aU3g#Week3_Day3)  

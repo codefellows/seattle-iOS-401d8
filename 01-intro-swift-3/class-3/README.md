@@ -8,7 +8,7 @@
   * Create a `Store` class that will *conform* to `ObjectStore` protocol and implement required methods
   * Demonstrate using all the methods from `ObjectStore` protocol on the `Store`'s `ToDo` array.
 
-## Reading Assignment:
+## Reading Assignment (read **before** Class 4):
 * Swift Programming Guide
   * [Enums](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html)  
   * [Properties](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Properties.html)  
@@ -20,5 +20,4 @@
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000c81ghNQmttrE6AJQjFIRzw#Week1_Day3)

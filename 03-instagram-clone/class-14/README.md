@@ -9,11 +9,10 @@
 
 * Use `SLComposeViewController` to share images to one of the supported social networks.  
 
-### Reading Assignment:  
+### Reading Assignment (read **before** Class 15):  
 * Cracking the coding Interview/Programming Interviews Exposed:  
   * Linked List  
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
-* [Lecture Resources](lecture/)
 * [Lecture Slides](https://www.icloud.com/keynote/000Jb3jQrKlkMaoFiZ5Nrlk8g#Week3_Day4)
