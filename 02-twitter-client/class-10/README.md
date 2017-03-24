@@ -27,16 +27,6 @@
   - What observations or questions do you have about what you've learned so far?  
 4. Once you've submitted your work, complete the merge of `friday-cleanup` to `master`  
 
-<<<<<<< HEAD
-### Reading Assignment:
-* Apple Documentation  
-  * [CloudKit Quick Start Guide](https://developer.apple.com/library/content/documentation/DataManagement/Conceptual/CloudKitQuickStart/Introduction/Introduction.html#//apple_ref/doc/uid/TP40014987)  
-  * [UIImagePickerController](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIImagePickerController_Class/index.html)  
-
-## Other Resources
-* [Grading Rubrics](../../resources/)
-* [Lecture Slides](https://www.icloud.com/keynote/04yJzgsxIUZgx4L4x_V6JMMjw#Stacks_%26_Queues)  
-=======
 ### Reading Assignment (read **before** Class 11):
 * Apple Documentation
   * [CloudKit Quick Start Guide](https://developer.apple.com/library/content/documentation/DataManagement/Conceptual/CloudKitQuickStart/Introduction/Introduction.html#//apple_ref/doc/uid/TP40014987)
@@ -44,5 +34,4 @@
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
-* [Lecture Slides]()
->>>>>>> a664489b62956f891d0ecf46b477be79e3f8674e
+* [Lecture Slides](https://www.icloud.com/keynote/04yJzgsxIUZgx4L4x_V6JMMjw#Stacks_%26_Queues)  
