@@ -4,6 +4,7 @@
  - As a developer, I want to utilize UIKit to build out an application to help work towards a better understanding of Apple's primary UI framework.  
  - As a user, I want to be able to filter the selected images to style them in different and creative ways.  
  - As a user, I want to be able to save my filtered images to the cloud, to be able to view them on multiple devices.  
+ - As a developer, I want to add animations to my application, to provide some surprise and delight to retain users.  
 
 ## Technical Requirements  
 * Create `Post` Model Object.  
@@ -20,6 +21,7 @@
 * Create the ability to apply filters to the original image and reset to the original image.  
 * Implement `POST` of an image to CloudKit.  
 * Embed the `HomeViewController` in a TabBarController.  
+* Have at least 2 or more constraint-based animations in your UI. Choose whichever constraints you'd like, be creative.  
  
 ### Stretch Goal:  
 * Change from `Reset` to `Undo` and manually manage images to properly handle `Undo`ing of an applied filter(HINT: An array could hold all the images as they get filtered).  
