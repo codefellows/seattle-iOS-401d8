@@ -37,7 +37,7 @@
   - What observations or questions do you have about what you've learned so far?  
 4. Once you've submitted your work, complete the merge of `tuesday-lab` to `master`  
 
-### Readings (read **before** Class 12):  
+### Readings (read **before** Class 13):  
 * [UICollectionView](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UICollectionView_class/index.html)
 * [UICollectionViewFlowLayout](https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UICollectionViewFlowLayout_class/)  
 
