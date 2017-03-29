@@ -18,14 +18,14 @@
 	* centerY  
 	* width 0.75  
 	* height 0.75  
- * Create and outlet to your image view in code called `imageView`.  
+ * Create an outlet to your image view in code called `imageView`.  
  * Add a TapGestureRecognizer to the image view and create a corresponding `Action` in code.  
  * When tapped the image should present a UIAlertController to allow the user to select the *Camera* or *Photo Library*  
  * Use the UIImagePickerController and its delegate to use the camera to set the image view's image.  
  
 ### Stretch Goal:  
  * Your UIImagePickerController should allow editing. Also, the *edited* image should be assigned to the image view.  
-* Write a function that takes in a sentence as a String and determines how many words there are in it.  
+ * Write a function that takes in a sentence as a String and determines how many words there are in it.  
 
 
 ## Submitting Your Assignment  
