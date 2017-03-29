@@ -15,10 +15,10 @@
 * Use property observers to set collection view cell's imageViews, when downloaded (lazy load images).  
 * Refactor your Filters class to be a singleton.  
 	* This new singleton should have 1 instance of the **context** that gets reused for each filter.  
+* Add a label to each `UICollectionViewCell` that displays the date the image was posted.  
 
 ### Stretch Goal:  
 * Add 3-5 more CIFilters to the `Filters` class.  
-* Add a label to each `UICollectionViewCell` that says the corresponding name of the filter being displayed.  
 * **Code Challenge:**  
 	* Write a function that computes the list of the first 100 Fibonacci numbers.(This is trickier than it seems).  
 
