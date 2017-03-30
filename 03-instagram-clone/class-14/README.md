@@ -12,7 +12,7 @@
 * Show / Hide `filterCollectionView` in place of Action Sheet.  
 * Selecting a filtered image applies that filter to the current Image in the primary image view.  
 * Implement a pinch gesture recognizer on GalleryViewController, that affects the collection view layout.  
-* Create a custom protocol and use delegation to send back the image selected from FiltersPreviewViewController to the HomeViewController for editing.  
+* Create a custom protocol and use delegation to send back the image selected from GalleryViewController to the HomeViewController for further editing.  
 * Use `SLComposeViewController` to share images to one of the supported social networks.  
 * If you didn't complete in class 13 lab, refactor the `HomeViewController` to make the `UIAlertController` logic more DRY.  
 * Rewrite the `imagePickerControllerDelagate` methods to be in an extension.  
