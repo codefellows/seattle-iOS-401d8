@@ -14,11 +14,11 @@
  * Implement UserDefaults to store the authorization token, so it only does the OAuth process once.
  * On launch, your app needs to check if there is an existing access token, and coordinate appropriately.
  * **PROJECT WEEK(prepared for class tomorrow)**:
- * Come up with an approximately 1 minute Project Pitch for class tomorrow:  
-  * Preliminary name for the application  
-  * The primary features of the applicaiton(what potential frameworks, libraries, functionality).  
-  * What problem does this idea solve?  
-  * Who is the primary user?  
+    * Come up with an approximately 1 minute Project Pitch for class tomorrow:  
+      * Preliminary name for the application  
+      * The primary features of the applicaiton(what potential frameworks, libraries, functionality).  
+      * What problem does this idea solve?  
+      * Who is the primary user?  
 
 ## Submitting Your Assignment  
 
