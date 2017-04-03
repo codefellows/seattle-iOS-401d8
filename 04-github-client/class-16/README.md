@@ -11,7 +11,7 @@
  * Working on a non-master branch, with regular commit history  
  * Implement a custom URL Scheme to allow other applications to redirect into your application.
  * Implement an OAuth workflow in your app that successfully lets the user authenticate with your app.
- * Implement UserDefaults to store the authorization token, so it only does the OAuth process once.
+ * Implement UserDefaults, for today, to store the authorization token, so it only does the OAuth process once.
  * On launch, your app needs to check if there is an existing access token, and coordinate appropriately.
  
  **PROJECT WEEK(prepared for class tomorrow)**:
