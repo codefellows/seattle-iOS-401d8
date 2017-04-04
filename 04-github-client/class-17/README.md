@@ -22,6 +22,8 @@
 * Parse through the JSON returned from the server into `Repository` objects.  
 * Create `RepoViewController` to display all the user's repositories in a TableView. 
 	* Each cell can just display the name of the repository for today.  
+
+### Stretch Goals  
 * Implement a `UISearchBar` on your `UITableView`, to search the user's repositories based on repo name.  
 	* Upon clicking the search button, your tableView should reload its data, and only display the repos that meet the searchTerm.  
 
