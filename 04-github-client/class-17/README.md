@@ -17,8 +17,8 @@
 	* NOTE: Make sure you include "repo" in your initial scope when requesting a token.  
 * Create model object for `Repository` with a failable `init` that takes in a user `json` dictionary and initializes a `Repository` instance. The `Repository` class should have the following members:  
    	* name: String  
-		* description: String?  
-		* language: String?  
+	* description: String?  
+	* language: String?  
 * Parse through the JSON returned from the server into `Repository` objects.  
 * Create `RepoViewController` to display all the user's repositories in a TableView.  
 * Implement a `UISearchBar` on your `UITableView`, to search the user's repositories.  
