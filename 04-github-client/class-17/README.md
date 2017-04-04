@@ -15,9 +15,12 @@
 * Your AppDelegate should check to see if token exists before making a call to Github. If token does not exist, present login screen.  
 * Implement the ability fetch repositories using a GET request.
 	* NOTE: Make sure you include "repo" in your initial scope when requesting a token.  
-* Create model object for `Repository`.  
+* Create model object for `Repository` with a failable `init` that takes in a user `json` dictionary and initializes a `Repository` instance. The `Repository` class should have the following members:  
+   	* name: String  
+		* description: String?  
+		* language: String?  
 * Parse through the JSON returned from the server into `Repository` objects.  
-* Create `HomeViewController` to display all the user's repositories in a TableView.  
+* Create `RepoViewController` to display all the user's repositories in a TableView.  
 * Implement a `UISearchBar` on your `UITableView`, to search the user's repositories.  
 
 ## Submitting Your Assignment  
