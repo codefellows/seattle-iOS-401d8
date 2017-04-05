@@ -14,7 +14,7 @@
 	* Repo Language  
 * Create `RepoDetailViewController` that will display Repository information.  
 * Implement the dismissal of the `RepoDetailViewController`.  
-* Your `RepoDetailViewController` should display at least these 5 pieces of data from the Repository:  
+* Your `RepoDetailViewController` should display at least these 6 pieces of data from the Repository:  
     * Repo Name  
     * Repo Description  
     * Programming Language  
