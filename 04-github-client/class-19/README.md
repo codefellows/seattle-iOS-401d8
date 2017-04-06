@@ -34,8 +34,6 @@ The **Project Plan** document should contain the following information:
 * Implement `UserSearchViewController` to search for users using another call to GitHub's API.  
   * Implement a `UISearchBar` to allow the user to search for a specific user on GitHub.  
   * Instead of a `UITableView`, use a `UICollectionView` to display the users avatar image.  
-* Implement Regex in your app to validate the characters the user types into any `UISearchBar`.  
-  * Your application should not allow any non-alphanumeric characters when searching users.  
 * Upon clicking one of the `UICollectionViewCell`s, implement another `WKWebView` that shows the `selected` user's GitHub page.  
 
 ## Submitting Your Assignment  
