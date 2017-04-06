@@ -17,8 +17,7 @@ The **Project Plan** document should contain the following information:
 * A detailed overview of the stretch goals you want to implement given a completed MVP.  
 * Which task management system will you use for tracking feature implementation?(GitHub Projects, Trello, Waffle.io, etc.)  
 
-> NOTE: You should not be writing any code prior to first thing Monday morning.  
-> TIP: Use pencil and paper to diagram and sketch. Online tools look snazzy but take some time to learn.  
+> NOTE: You should not be writing any code prior to first thing Monday morning.    
 
 ## User Stories for Lab(MVP)  
  - As a developer, I want to utilize UIKit to build out an application to help work towards a better understanding of Apple's primary UI framework.  
