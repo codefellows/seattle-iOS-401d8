@@ -1,7 +1,7 @@
 # Assignment Overview: Lab for Class 19 - GoGoGitHub  
 
 ## Announcements:  
-* Make sure to look at the CD assignments on Canvas in preparation for tomorrow. One of these, is that Brandy has asked, to avoid bogging down the printer, to bring in 20 copies of your BEST resume.  
+> Make sure to look at the Career Development assignment on Canvas in preparation for tomorrow. 
 
 ## Project Planning Stage  
 > Your project plan document must be uploaded, via a canvas submission, by 1 designated member of your group. Some stuff scribbled on a whiteboard, or a photo of some stuff scribbled on a whiteboard, is not sufficient.  
