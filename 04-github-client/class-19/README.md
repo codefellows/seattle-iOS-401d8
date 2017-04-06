@@ -4,6 +4,9 @@
 > Make sure to look at the Career Development assignment on Canvas in preparation for tomorrow. 
 
 ## Project Planning Stage  
+There is a PDF that your team should print and use as a resource for the preparation of project week.  
+[Project Prep Doc](PresentationPrephandout.pdf)  
+
 > Your project plan document must be uploaded, via a canvas submission, by 1 designated member of your group. Some stuff scribbled on a whiteboard, or a photo of some stuff scribbled on a whiteboard, is not sufficient.  
 
 The **Project Plan** document should contain the following information:  
