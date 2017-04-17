@@ -17,12 +17,12 @@
 	* `dequeue`(required): Takes no arguments, returns a `Person`  
 	* `count`(optional): Takes no arguments, returns an `int`  
 
-### Reading Assignment (read **before** Class 27):
-* Programming in Objective-C
-  * **Chapter 2:** Programming in Objective-C
-  * **Chapter 3:** Objects, Classes, Methods
-  * **Chapter 7:** More on Classes
-	* **Chapter 15:** Numbers, Strings, and Collections
+### Reading Assignment (read **before** Class 27):  
+* Programming in Objective-C  
+  * **Chapter 2:** Programming in Objective-C  
+  * **Chapter 3:** Objects, Classes, Methods  
+  * **Chapter 7:** More on Classes  
+	* **Chapter 15:** Numbers, Strings, and Collections  
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
