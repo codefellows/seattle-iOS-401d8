@@ -1,13 +1,21 @@
 # Week 6 - Class 1
 ## Lab Assignment
-* Create a category method on NSString that takes in itself and returns an array of words
-* Declare a simple protocol with optional and required methods. Name it whatever you like
-* Declare a class called Person. Subclass Person and add behavior to your subclass (Person -> Employee):  
-	* Employee Number  
-	* Years Employed  
-	* Manager's Name  
-* Define Setter and Getter methods for the above values.  
-* Create a function that takes in an NSArray of People and using a for-loop, prints their names to the console.  
+* Create a new Single View Application, with the language set to Objective-C.   
+* Create a category of `NSString`. Extend `NSString`'s functionality to have a instance method that returns an array of the words contained in `self`.
+* Create another method in the same category that is a class method that takes in a `NSString` and returns the same `NSString` but reversed.  
+* Declare a class called `Person` defined with the following properties:
+	* `firstName`  
+	* `lastName`  
+	* `age`  
+* Create a subclass of `Person` called `Employee`, and add the following properties to `Employee`:  
+	* `employeeNumber`  
+	* `yearsEmployed`  
+	* `managerName`  
+* Define Setter and Getter methods for the new `Employee` properties.  
+* Declare a `protocol` called `PersonQueue` with the following methods:  
+	* `enqueue`(required): Takes in a `Person`, returns `Void`  
+	* `dequeue`(required): Takes no arguments, returns a `Person`  
+	* `count`(optional): Takes no arguments, returns an `int`  
 
 ### Reading Assignment (read **before** Class 27):
 * Programming in Objective-C
