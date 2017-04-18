@@ -3,7 +3,7 @@
 ## Lab Assignment
 * Continue working on the same project.  
 * Disable ARC for the `Employee` class using the `-fno-objc-arc` compiler flag, and refactor to properly manage retain/release of `Employee`'s'.  
-* In `ViewController.m`, inside `viewDidLoad`, create 5 unique instances of `Employee` and use a `NSMutableDictionary` to store them with their `employeeNumber` as the key for the dictionary.  
+* In `ViewController.m`, inside `viewDidLoad`, create 5 unique instances of `Employee` and use a `NSMutableDictionary` to store them with their `email` as the key for the dictionary.  
 	* Remember to manually manage your memory for this.  
 			
 ## Submitting Your Assignment  

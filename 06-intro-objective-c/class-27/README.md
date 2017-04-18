@@ -2,8 +2,8 @@
 
 ## Lab Assignment
 * Continue from the same project from yesterday.  
-* Refactor the `Employee` class to have these **PROPERTIES**: `firstName`, `lastName`, `email`, `phone`.  
-	* Declare a custom initializer that takes in all the required parameters.  
+* Refactor the `Employee` class to have an `email` **PROPERTY** as a `NSString`.  
+	* Declare a custom initializer that takes in all the required parameters and initializes a new instance of `Employee`.  
 	* Conform Employee class to `NSCoding` protocol and implement the required methods.  
 * Define and build `EmployeeDatabase`.  
 	* Make this class a singleton that manages an array of employees.  
@@ -12,7 +12,8 @@
 	* Create an Outlet to the `tableView` in code.
 	* Assign the `datasource` to be the corresponding `ViewController`, and implement `cellForRowAt` and `numberOfRowInSection`.
 	* This `tableView` should populate with the names of all the employees in the `EmployeeDatabase` array.  
-	
+
+
 ## Submitting Your Assignment  
 1. When your work is complete and ready for submission, **open a Pull Request** from `tuesday-lab` to `master`.  
 2. Submit the link to the above Pull Request to Canvas  
