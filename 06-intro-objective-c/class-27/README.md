@@ -9,7 +9,7 @@
 	* Make this class a singleton that manages an array of employees.  
 * Build out the UI:
 	* Create a new `ViewController` with a `UITableView`.
-	* Create an Outlet to the `tableView` in code.
+	* Create an Outlet to the `tableView`.
 	* Assign the `datasource` to be the corresponding `ViewController`, and implement `cellForRowAt` and `numberOfRowInSection`.
 	* This `tableView` should populate with the names of all the employees in the `EmployeeDatabase` array.  
 
