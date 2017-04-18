@@ -4,7 +4,7 @@
 * Continue from the same project from yesterday.  
 * Refactor the `Employee` class to have an `email` **PROPERTY** as a `NSString`.  
 	* Declare a custom initializer that takes in all the required parameters and initializes a new instance of `Employee`.  
-	* Conform Employee class to `NSCoding` protocol and implement the required methods.  
+	* Conform Employee class to `NSCopying` protocol and implement the required methods.  
 * Define and build `EmployeeDatabase`.  
 	* Make this class a singleton that manages an array of employees.  
 * Build out the UI:
