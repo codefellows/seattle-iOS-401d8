@@ -7,6 +7,7 @@
 	* Add `Save` and `Cancel` buttons.  
 * Add UIBarButton to the ViewController's NavigationBar & create a segue to the `AddViewController`.  
 	* When pressed, this button should present modally the `AddEmployeeViewController` to properly create a new `Employee`.  
+* Implement saving using `NSKeyedArchiver` and `NSKeyedUnarchiver` to allow persistence of your `EmployeeDatabase`.  
 
 ## Submitting Your Assignment  
 1. When your work is complete and ready for submission, **open a Pull Request** from `wednesday-lab` to `master`.  
