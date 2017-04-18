@@ -1,21 +1,27 @@
-# Week 6 - Class 3
-## Homework
-* Create a new project, we will be building out this app today and tomorrow.  
-* Define a Student class with these **PROPERTIES**: firstName, lastName, email, phone.  
-	* Declare a custom initializer that takes in required parameters.  
-	* Conform Student class to NSCoding protocol and implement required methods.  
-* Define and build StudentStore.  
-	* Make this class a singleton that manages an array of students.  
-* Build out the UI:
-	* Create a new ViewController with a TableView.
-	* Create an Outlet to the TableView in code.
-	* Assign the datasource, and implement `cellForRowAt` and `numberOfRowInSection`.
-	* This TableView should populate with the names of all the students in the StudentStore array.  
+# Week 6 - Class 28  
+
+## Lab Assignment  
+* Embed the `ViewController` into a `NavigationController`.  
+* Create a new `UIViewController` called `AddEmployeeViewController`.  
+	* Setup `AddViewController` in storyboard with text fields for each model variable(firstName, lastName, email).
+	* Add `Save` and `Cancel` buttons.  
+* Add UIBarButton to the ViewController's NavigationBar & create a segue to the `AddViewController`.  
+	* When pressed, this button should present modally the `AddEmployeeViewController` to properly create a new `Employee`.  
+
+## Submitting Your Assignment  
+1. When your work is complete and ready for submission, **open a Pull Request** from `wednesday-lab` to `master`.  
+2. Submit the link to the above Pull Request to Canvas  
+3. Add a comment to this Canvas submission with answers to the following questions.  
+  - How did this lab go, overall?  
+  - What observations or questions do you have about what you've learned so far?  
+4. Once you've submitted your work, complete the merge of `wednesday-lab` to `master`  
+
 
 ### Reading Assignment (read **before** Class 29):
 * Programming in Objective-C:
-  * **Chapter 9:** Polymorphism, Dynamic Typing and Dynamic Binding
-	* **Chapter 12:** The Preprocessor
+	* **Chapter 17:** Memory Management and Automatic Reference Counting  
+	* **Chapter 13:** Underlying C Language Features  
+	* **Chapter 11:** Categories and Protocols  
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)

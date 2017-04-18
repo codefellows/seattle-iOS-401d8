@@ -1,17 +1,32 @@
-# Week 6 - Class 2
-## Homework
-* Create a new project and Disable ARC.  
-	* Manage your memory, create proper setters that retain/copy data when assigned.  
-* Create a `User` class, but implement the `NSCopying` protocol, and implement `CopyWithZone:` to make deep copies of `User`.  
-	* `User` should have values for `name`, `age`, and `email`.  
-	* `User` should have an initializer that takes in values for each of the above and returns a new instance.(Hint: Yesterday's slides).
-* In `ViewController.m`, inside `viewDidLoad`, create 5 unique instances of `User` and use a `NSMutableDictionary` to store them with their `email` as the key for the dictionary.  
-	* Remember to manually manage your memory for this.  
+# Week 6 - Class 27  
+
+## Lab Assignment
+* Continue from the same project from yesterday.  
+* Refactor the `Employee` class to have these **PROPERTIES**: `firstName`, `lastName`, `email`, `phone`.  
+	* Declare a custom initializer that takes in all the required parameters.  
+	* Conform Employee class to `NSCoding` protocol and implement the required methods.  
+* Define and build `EmployeeDatabase`.  
+	* Make this class a singleton that manages an array of employees.  
+* Build out the UI:
+	* Create a new `ViewController` with a `UITableView`.
+	* Create an Outlet to the `tableView` in code.
+	* Assign the `datasource` to be the corresponding `ViewController`, and implement `cellForRowAt` and `numberOfRowInSection`.
+	* This `tableView` should populate with the names of all the employees in the `EmployeeDatabase` array.  
+	
+## Submitting Your Assignment  
+1. When your work is complete and ready for submission, **open a Pull Request** from `tuesday-lab` to `master`.  
+2. Submit the link to the above Pull Request to Canvas  
+3. Add a comment to this Canvas submission with answers to the following questions.  
+  - How did this lab go, overall?  
+  - What observations or questions do you have about what you've learned so far?  
+4. Once you've submitted your work, complete the merge of `tuesday-lab` to `master`  
 
 ### Reading Assignment (read **before** Class 28):
 * Programming in Objective-C
-  * **Chapter 16:** Working with Files
-  * **Chapter 17:** Memory Management and Automatic Reference Counting
+	* **Chapter 16:** Working with Files
+	* **Chapter 9:** Polymorphism, Dynamic Typing and Dynamic Binding
+	* **Chapter 12:** The Preprocessor
+
 
 ## Other Resources
 * [Grading Rubrics](../../resources/)
