@@ -1,11 +1,15 @@
 # Week 6 - Class 4  
 
-## Lab Assignment
-* Continue working on the same project.  
-* Disable ARC for the `Employee` class using the `-fno-objc-arc` compiler flag, and refactor to properly manage retain/release of `Employee`'s'.  
-* In `ViewController.m`, inside `viewDidLoad`, create 5 unique instances of `Employee` and use a `NSMutableDictionary` to store them with their `email` as the key for the dictionary.  
-	* Remember to manually manage your memory for this.  
-			
+## Lab Assignment  
+* Disable ARC for the `Employee` and `Person` class using the `-fno-objc-arc` compiler flag, and refactor to properly manage memory allocation for these classes.  
+* Implement `KVO` to have your `UITableView` automatically `reloadData()` each time a new `Employee`
+ is added to our `EmployeeDatabase`.  
+* Look up in the documentation, and implement, a swipe to delete on your `UITableView` to support deleting employees from the `EmployeeDatabase`.  
+
+### Stretch Goals  
+* Implement the `UITableViewDelegate`, and it's method `didSelectRowAtIndex`, to allow the user to select a specific employee on the `UITableView`. Implement a new `UIViewController` called `EmployeeDetailViewController`, so upon selection of a specific cell, the user is presented with `EmployeeDetailViewController` to display more information about the employee that was selected.  
+ 
+
 ## Submitting Your Assignment  
 1. When your work is complete and ready for submission, **open a Pull Request** from `thursday-lab` to `master`.  
 2. Submit the link to the above Pull Request to Canvas  
