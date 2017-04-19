@@ -3,9 +3,9 @@
 ## Lab Assignment  
 * Embed the `ViewController` into a `NavigationController`.  
 * Create a new `UIViewController` called `AddEmployeeViewController`.  
-	* Setup `AddViewController` in storyboard with text fields for each model variable(firstName, lastName, email).
+	* Setup `AddEmployeeViewController` in storyboard with text fields for each model variable(firstName, lastName, email).
 	* Add `Save` and `Cancel` buttons.  
-* Add UIBarButton to the ViewController's NavigationBar & create a segue to the `AddViewController`.  
+* Add UIBarButton to the ViewController's NavigationBar & create a segue to the `AddEmployeeViewController`.  
 	* When pressed, this button should present modally the `AddEmployeeViewController` to properly create a new `Employee`.  
 * Implement saving using `NSKeyedArchiver` and `NSKeyedUnarchiver` to allow persistence of your `EmployeeDatabase`.  
 
