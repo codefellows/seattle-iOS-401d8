@@ -19,7 +19,10 @@
 4. Once you've submitted your work, complete the merge of `thursday-lab` to `master`  
 
 ### Reading Assignment (read **before** Class 30):
-* Programming in Objective-C  
+* Swift Algorithms Club:  
+	* [Binary Search Trees](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Binary%20Search%20Tree)  
+* Cracking the Coding Interview/Programming Interviews Exposed:  
+	* Binary Search Trees  
 
 
 ## Other Resources
