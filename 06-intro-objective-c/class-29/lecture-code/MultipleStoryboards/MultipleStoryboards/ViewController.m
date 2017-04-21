@@ -40,9 +40,6 @@ static void *kvoContext = &kvoContext;
     
     [self.counter incrementCounter];
 
-    [self.counter incrementCounter];
-
-    [self.counter incrementCounter];
 
 }
 
@@ -63,7 +60,6 @@ static void *kvoContext = &kvoContext;
     if (context == kvoContext) {
         
         NSLog(@"Value for Count Changed: %i", (int)self.counter.count);
-        
         
         
     } else {

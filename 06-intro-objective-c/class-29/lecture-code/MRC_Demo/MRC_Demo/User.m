@@ -10,28 +10,14 @@
 
 @implementation User
 
+@synthesize name = _name;
 
 -(void)setName:(NSString *)name{
-    
-    if(_name != name){
-        
-        [name retain];
-        [_name release];
-        
-        _name = name;
-        
-    }
+    _name = name;
 }
 
 -(NSString *)name{
     return _name;
-}
-
--(NSString *)description{
-    NSString *description = [[[NSString alloc]initWithFormat:@"%@", self.name]autorelease];
-    
-    return description;
-    
 }
 
 

@@ -1,23 +1,15 @@
-# Week 6 - Class 5
+# Week 6 - Class 30  
 
-### Reading Assignment (read **before** Class 31):
-* Programming in Objective-C:
-  * **Chapter 4:** Data Types and Expressions
-  * **Chapter 5:** Program Looping
-  * **Chapter 8:** Inheritance
-  * **Chapter 10:** More on Variables and Data Types
-  * **Chapter 11:** Categories and Protocols
-* Apple Documentation
-  * MapKit
+### Reading Assignment (read **before** Class 31):  
+* Programming in Objective-C:  
+  * **Chapter 10:** More on Variables and Data Types  
+  * **Chapter 11:** Categories and Protocols  
+* Apple Documentation  
+  * [Core Data](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/CoreData/index.html)  
 
-### Coding Challenges
-* Implement Binary Search Tree with these functionalities:
-  * addNode
-  * removeNode
-  * List values of binary tree in order
-  * minValue/maxValue
-  * isBinarySearchTree
+### Whiteboarding Exercise  
+* Problem Domain listed on Canvas.  
 
-## Other Resources
+## Other Resources  
 * [Grading Rubrics](../../resources/)
-* [Lecture Slides]()
+* [Lecture Slides](https://www.icloud.com/keynote/0HsxTSLp6ajYiE8VSwsR5oyUA#Binary_Search_Trees)  

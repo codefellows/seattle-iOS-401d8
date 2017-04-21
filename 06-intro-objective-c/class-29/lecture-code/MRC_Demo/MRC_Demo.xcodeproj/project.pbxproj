@@ -13,7 +13,7 @@
 		1AD3BEE21EA9389500C5AAED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AD3BEE01EA9389500C5AAED /* Main.storyboard */; };
 		1AD3BEE41EA9389500C5AAED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1AD3BEE31EA9389500C5AAED /* Assets.xcassets */; };
 		1AD3BEE71EA9389500C5AAED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AD3BEE51EA9389500C5AAED /* LaunchScreen.storyboard */; };
-		1AD3BEF01EA938D200C5AAED /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AD3BEEF1EA938D200C5AAED /* User.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		1AD3BEF01EA938D200C5AAED /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AD3BEEF1EA938D200C5AAED /* User.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */

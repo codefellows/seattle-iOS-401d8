@@ -8,12 +8,9 @@
 
 #import <Foundation/Foundation.h>
 
-@interface User : NSObject{
-    NSString *_name;
-}
+@interface User : NSObject
 
--(void)setName:(NSString *)name;
--(NSString *)name;
+@property(strong, nonatomic) NSString *name;
 
 
 @end
