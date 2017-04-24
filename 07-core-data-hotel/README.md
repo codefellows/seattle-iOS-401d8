@@ -1,4 +1,4 @@
-# Week 8: CoreData Hotel Service  
+# Week 7: CoreData Hotel Service  
 
 ## Overview:  
 >Students will be creating a mock Hotel Service, allowing them to book hotel rooms, see different hotels, etc.  
