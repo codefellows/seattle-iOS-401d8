@@ -26,8 +26,6 @@ static void *kvoContext = &kvoContext;
     
     self.counter = [[Counter alloc] init];
     
-    [self setValue:@100 forKeyPath:@"counter.count"];
-    
     NSLog(@"%i", (int)self.counter.count);
     
     
@@ -36,7 +34,8 @@ static void *kvoContext = &kvoContext;
 -(void)viewWillAppear:(BOOL)animated{
     [super viewWillAppear:animated];
     
-    [self addObserver:self forKeyPath:@"self.counter.count" options:NSKeyValueObservingOptionNew | NSKeyValueObservingOptionOld context:kvoContext];
+    
+    [self addObserver:self forKeyPath:@"counter.count" options:NSKeyValueObservingOptionNew | NSKeyValueObservingOptionOld | NSKeyValueChangeInsertion context:kvoContext];
     
     [self.counter incrementCounter];
 

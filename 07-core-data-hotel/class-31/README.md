@@ -1,19 +1,32 @@
-# Week 7 - Class 1
-## Lab Assignment
-* Download Parse Documentation to Dash.
-* Get your project setup in Objective-C.
-* Create a single view controller, that has a map view that takes up most the screen, and 3 buttons below it.
-* The 3 buttons should set the region on the map view to 3 cool locations, you pick the locations.
-* **Code Challenge:**
-	* Implement Stack and Queue in Objective-C. You can implement them in the same project as your map app is in, since Objective-C does not support playgrounds.
+# Core Data Hotel: Class 31  
+## User Stories (MVP)  
+- As an iOS Developer, I want to implement Core Data into my applications, to allow my Model layer objects to be persisted to the device.  
+- As a Developer, I want to implement a layout designed programmatically to better understand how storyboards work and to be able to build an application without the use of storyboards or xibs.  
+- As a Developer, I want to implement my own Auto Layout class to make sure that my programmatically designed interface still uses the constraint-based auto layout for positioning of elements.  
 
-### Reading Assignment (read **before** Class 32):
-* Programming In Objective-C
-  * **Chapter 8:** Inheritance
-* Apple Documentation
-  * CoreLocation
-  * UILongPressGestureRecognizer
+## Technical Requirements  
+* Create a new project called `Core Data Hotel` for this week and do today's work on a `monday-lab` branch.  
+* Implement Core Data into the application to persist data between app launches.  
+	* Setup your ManagedObjectModel with entities for Hotel >> Room >> Reservation > Guest  
+	* Seed your Core Data database with a few hotels and hotel rooms from the provided `Hotels.json`.  
+* Create a table view based hotel view controller. This should show the list of hotels  
+* Upon selecting a hotel, push to RoomsViewController, which shows all the rooms of that hotel in another table view.  
 
-## Other Resources
-* [Grading Rubrics](../../resources/)
-* [Lecture Slides](https://www.icloud.com/keynote/000e-ROI5X3oeYQ3f_MUzdzgA#Week7_Day1)
+## Submitting Your Assignment  
+
+1. When your work is complete and ready for submission, **open a Pull Request** from `monday-lab` to `master`.  
+2. Submit the link to the above Pull Request to Canvas  
+3. Add a comment to this Canvas submission with answers to the following questions.  
+  - How did this go, overall?  
+  - What observations or questions do you have about what you've learned so far?  
+4. Once you've submitted your work, complete the merge of `monday-lab` to `master`  
+
+### Reading Assignment (read **before** Class 37):  
+* Apple Documentation  
+  * [NSDateFormatter](https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSDateFormatter_Class/)  
+  * [NSPredicated - NSHipters](http://nshipster.com/nspredicate/)  
+
+## Other Resources  
+* [Reading Assignments](../../Resources/ra-grading-standard/)  
+* [Grading Rubrics](../../Resources/)  
+* [Lecture Slides](https://www.icloud.com/keynote/0005t6TSbbUEfw8Mme0uKA_mQ#Week8_Day1)  

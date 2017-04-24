@@ -11,7 +11,22 @@
 @implementation Counter
 
 -(void)incrementCounter{
+    
+    [self willChangeValueForKey:@"count"];
+    
     self.count++;
+    
+    [self didChangeValueForKey:@"count"];
+}
+
+
++(BOOL)automaticallyNotifiesObserversOfCount{
+    return NO;
 }
 
 @end
+
+
+
+
+

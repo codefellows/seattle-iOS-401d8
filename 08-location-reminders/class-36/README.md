@@ -1,16 +1,19 @@
-# Week 7 - Class 1  
-## Lab Assignment:  
-* Setup your ManagedObjectModel with entities for Hotel >> Room >> Reservation > Guest  
-* Seed your database with a few hotels and rooms from the provided `Hotels.json`.  
-* Create a table view based hotel view controller. This should show the list of hotels  
-* Upon selecting a hotel, push to RoomsViewController, which shows all the rooms of that hotel in another table view.  
+# Week 7 - Class 1
+## Lab Assignment
+* Download Parse Documentation to Dash.
+* Get your project setup in Objective-C.
+* Create a single view controller, that has a map view that takes up most the screen, and 3 buttons below it.
+* The 3 buttons should set the region on the map view to 3 cool locations, you pick the locations.
+* **Code Challenge:**
+	* Implement Stack and Queue in Objective-C. You can implement them in the same project as your map app is in, since Objective-C does not support playgrounds.
 
-### Reading Assignment (read **before** Class 37):  
-* Apple Documentation  
-  * [NSDateFormatter](https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/Classes/NSDateFormatter_Class/)  
-  * [NSPredicated - NSHipters](http://nshipster.com/nspredicate/)  
+### Reading Assignment (read **before** Class 32):
+* Programming In Objective-C
+  * **Chapter 8:** Inheritance
+* Apple Documentation
+  * CoreLocation
+  * UILongPressGestureRecognizer
 
-## Other Resources  
-* [Reading Assignments](../../Resources/ra-grading-standard/)  
-* [Grading Rubrics](../../Resources/)  
-* [Lecture Slides](https://www.icloud.com/keynote/0005t6TSbbUEfw8Mme0uKA_mQ#Week8_Day1)  
+## Other Resources
+* [Grading Rubrics](../../resources/)
+* [Lecture Slides](https://www.icloud.com/keynote/000e-ROI5X3oeYQ3f_MUzdzgA#Week7_Day1)

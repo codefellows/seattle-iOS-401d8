@@ -10,15 +10,7 @@
 
 @implementation User
 
-@synthesize name = _name;
 
--(void)setName:(NSString *)name{
-    _name = name;
-}
-
--(NSString *)name{
-    return _name;
-}
 
 
 @end
