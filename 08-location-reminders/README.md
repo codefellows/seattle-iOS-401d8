@@ -1,11 +1,13 @@
-# Week 8: CoreData Hotel Service
-
-## Overview:
->Students will be creating a Hotel Service, allowing them to book hotel rooms, see different hotels, etc.
+# Week 7: Location Reminders
+## Overview
+>We will build a Reminders app that uses locations to create reminders. This
+application will utilize CoreLocation and MapKit.
 
 ## Daily Breakdown
-  * [Class 36:](class-36/) Programmatic Layout, Relational Databases, Core Data
-  * [Class 37:](class-37/) UIDatePicker, UIPickerView, Advanced Fetching
-  * [Class 38:](class-38/) Unit Testing, TDD, NSFetchedResultsController
-  * [Class 39:](class-39/) Testing Core Data, Migration, iCloud, Multiple Context
-  * [Class 40:](class-40/) Professional Development Day 2
+  * [Class 31:](class-31/) MapKit
+  * [Class 32:](class-32/) Blocks, Constants, CoreLocation, Annotations, and GeoPoints
+  * [Class 33:](class-33/) Object Equality, MKMapViewDelegate, Notification Center
+  * [Class 34:](class-34/) Local Notifications, MKMapViewOverlay
+Overview
+  * [Class 35:](class-35/) Data Structure Friday
+
