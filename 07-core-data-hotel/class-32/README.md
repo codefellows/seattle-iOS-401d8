@@ -5,15 +5,16 @@
 - As a Developer, I want to implement a layout designed programmatically to better understand how storyboards work and to be able to build an application without the use of storyboards or xibs.  
 
 ## Technical Requirements  
-* Implement Book functionality. 
-  * Guests should be able to select the room they want, set both the start and end reservation dates,  and finally book it.
-	* Guest name is required.
-	* When selecting dates, users should not be allowed to select dates in the past for the start date.
-	* Users should also not be able to book an end date before a start date.
-	* Present an alert for the user if they attempt the above.
+* Create a new UIViewController subclass called `DatePickerViewController` to allow the user to book reservations for specific timeframe.  
+* `DatePickerViewController` should have both `startDate` and `endDate` date pickers. All views should get their proper layout from `Auto Layout` and **not** by assigning their frame.  
+  * When selecting dates, users should not be allowed to select dates in the past for the start date.  
+  * Users should also not be able to book an end date before a start date.
+* Once the user selects both a valid `startDate` and `endDate`, present a new ViewController called `RoomAvailabilityViewController` that displays all the available rooms to the user in a `tableView`.  
+* Upon selecting a room on the `RoomAvailabilityViewController`, the user should transition to another viewController called `BookViewController` where they can enter all the information needed to book a reservation for this room.  
+  * Guest name is required.  
 * Add Attributes to your ManagedObjectModel(MOM).
 	* Change your Guest model accordingly to have firstName, lastName, and email address.
-	* Update UI to include fields for lastName and email in BookVC and setup constraints.
+	* Update UI to include fields for lastName and email in `BookViewController` and setup constraints.
 	* Assign lastName and email to guest.
 
 ## Submitting Your Assignment  
