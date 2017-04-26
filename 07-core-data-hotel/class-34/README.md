@@ -1,14 +1,37 @@
-# Week 7 - Class 4
-## Lab Assignment
-* Use Region monitoring and schedule a location based reminder in the AddReminderDetailViewController
-* Add local notifications when the user enters a region
-* Upon creation of your reminder, upload to ParseServer.
-* On first launch, your app should fetch all reminders and display on the mapView.
+# Core Data Hotel: Class 34  
 
-### Reading Assignment (read **before** Class 35):
-* Cracking the coding Interview/Programming Interviews Exposed:
-  * Hash Table
+## User Stories (MVP)  
+- As an iOS Developer, I want to implement Core Data into my applications, to allow my Model layer objects to be persisted to the device.  
+- As a Developer, I want to implement a layout designed programmatically to better understand how storyboards work and to be able to build an application without the use of storyboards or xibs.  
 
-## Other Resources
-* [Grading Rubrics](../../resources/)
-* [Lecture Slides](https://www.icloud.com/keynote/000n52A4TyAjhlmU1PRkuZF1w#Week7_Day4)
+## Technical Requirements  
+* Write 10 additional unit tests for your project. What you test is your decision and be creative!  
+  * Remember these best practices with testing in iOS though:  
+    * F.I.R.S.T - Fast, Isolated, Repeatable, Self-verifying, Timely  
+    * Do not test Apple's methods(alloc, init, addObject, append, viewDidLoad, etc).  
+* Migrate your existing model into a new model with at least one new attribute.  
+* Implement analytics into your app, using Fabric, or a comparable framework.  
+
+### Stretch Goals  
+* Localize your app's `NSString`s for another language (your pick).  
+
+## Submitting Your Assignment  
+
+1. When your work is complete and ready for submission, **open a Pull Request** from `thursday-lab` to `master`.  
+2. Submit the link to the above Pull Request to Canvas  
+3. Add a comment to this Canvas submission with answers to the following questions.  
+  - How did this go, overall?  
+  - What observations or questions do you have about what you've learned so far?  
+4. Once you've submitted your work, complete the merge of `thursday-lab` to `master`  
+
+### Reading Assignment (read **before** Class 35):  
+Cracking the coding Interview/Programming Interviews Exposed:  
+  * Hash Table  
+  * [Hash Tables - SAC](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Hash%20Table)  
+Additional Article on Unit Testing in iOS:  
+* [Unit Testing - NSHipster](http://nshipster.com/unit-testing/)  
+
+## Other Resources  
+* [Reading Assignments](../../Resources/ra-grading-standard/)  
+* [Grading Rubrics](../../Resources/)  
+* [Lecture Slides](https://www.icloud.com/keynote/000HqA1mWLR1e_kcZQL54EAeQ#Week8_Day4)  

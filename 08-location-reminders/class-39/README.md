@@ -1,15 +1,10 @@
-# Week 8 - Class 4
-## Homework
-* Write unit tests for your Model objects.
-* Implement analytics into your app.
-* Migrate your existing model into a new model with at least one new attribute.
-* **Bonus:**
-	* Localize your app for another language (your pick).
-
-### Reading Assignment (read **before** Class 40):
-* [Unit Testing - NSHipster](http://nshipster.com/unit-testing/)
+# Week 7 - Class 4
+## Lab Assignment
+* Use Region monitoring and schedule a location based reminder in the AddReminderDetailViewController
+* Add local notifications when the user enters a region
+* Upon creation of your reminder, upload to ParseServer.
+* On first launch, your app should fetch all reminders and display on the mapView.
 
 ## Other Resources
-* [Reading Assignments](../../Resources/ra-grading-standard/)
-* [Grading Rubrics](../../Resources/)
-* [Lecture Slides](https://www.icloud.com/keynote/000HqA1mWLR1e_kcZQL54EAeQ#Week8_Day4)
+* [Grading Rubrics](../../resources/)
+* [Lecture Slides](https://www.icloud.com/keynote/000n52A4TyAjhlmU1PRkuZF1w#Week7_Day4)
