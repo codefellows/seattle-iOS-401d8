@@ -1,4 +1,4 @@
-# Core Data Hotel: Class 32  
+# Core Data Hotel: Class 33  
 
 ## User Stories (MVP)  
 - As an iOS Developer, I want to implement Core Data into my applications, to allow my Model layer objects to be persisted to the device.  
@@ -7,6 +7,7 @@
 - As a Developer, I want to implement Unit Tests into my application to ensure that everything is working as expected on a consistent basis.  
 
 ## Technical Requirements  
+* Finish up any additional logic needed from yesterday's lab to implement booking `Reservations` and saving to CoreData.  
 * Add UnitTests to your project. Write 5 `UnitTests` for your model containing at least 10 unique assertions. What you test of the Model is up to you.   
 * Implement a `LookUpRerservationController` as a `UIViewController` subclass.  
   * implement a `tableView` that displays all booked reservations.  
