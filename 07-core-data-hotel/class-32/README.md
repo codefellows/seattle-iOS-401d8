@@ -12,6 +12,8 @@
 * Once the user selects both a valid `startDate` and `endDate`, present a new ViewController called `RoomAvailabilityViewController` that displays all the available rooms to the user in a `tableView`.  
 * Upon selecting a room on the `RoomAvailabilityViewController`, the user should transition to another viewController called `BookViewController` where they can enter all the information needed to book a reservation for this room.  
   * Guest name is required.  
+* implement a `Done` button to allow the user to book the reservation.  
+  * The `selector` for this button should create a new `Reservation` and persist it to Core Data.
 * Add Attributes to your ManagedObjectModel(MOM).
 	* Change your Guest model accordingly to have firstName, lastName, and email address.
 	* Update UI to include fields for lastName and email in `BookViewController` and setup constraints.
@@ -28,7 +30,7 @@
 
 ### Reading Assignment (read **before** Class 33):  
 * Apple Documentation + Other
-  * [Unit Testing Overview](https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/UnitTesting.html)
+  * [Unit Testing Overview](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/01-introduction.html)
   * [Introduction to NSFetchedResults Controller](http://nshipster.com/unit-testing/)
 
 ## Other Resources
