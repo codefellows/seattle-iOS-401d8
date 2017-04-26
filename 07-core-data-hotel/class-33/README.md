@@ -7,9 +7,6 @@
 - As a Developer, I want to implement Unit Tests into my application to ensure that everything is working as expected on a consistent basis.  
 
 ## Technical Requirements  
-* Create a `HotelService` class that should abstract and your application's business logic:  
-  * booking reservations  
-  * checking availability for `Room`s  
 * Add UnitTests to your project. Write 5 `UnitTests` for your model containing at least 10 unique assertions. What you test of the Model is up to you.   
 * Implement a `LookUpRerservationController` as a `UIViewController` subclass.  
   * implement a `tableView` that displays all booked reservations.  
@@ -22,6 +19,9 @@
   * accessing the `ManagedObjectContext` to save and fetch from Core Data.  
   * Inserting new `Entities`  
   * All Core Data related logic  
+* Create a `HotelService` class that should abstract and your application's business logic:  
+  * booking reservations  
+  * checking availability for `Room`s  
 
 ## Submitting Your Assignment  
 
