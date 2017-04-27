@@ -5,15 +5,13 @@
 - As a Developer, I want to implement a layout designed programmatically to better understand how storyboards work and to be able to build an application without the use of storyboards or xibs.  
 
 ## Technical Requirements  
-* Write 10 additional unit tests for your project. What you test is your decision and be creative!  
+* Finish up any functionality from previous labs.  
+* Write 5 additional unit tests, with a minimum of 10 assertions, for your project. What you test is your decision and be creative!  
   * Remember these best practices with testing in iOS though:  
     * F.I.R.S.T - Fast, Isolated, Repeatable, Self-verifying, Timely  
     * Do not test Apple's methods(alloc, init, addObject, append, viewDidLoad, etc).  
 * Migrate your existing model into a new model with at least one new attribute.  
 * Implement analytics into your app, using Fabric, or a comparable framework.  
-
-### Stretch Goals  
-* Localize your app's `NSString`s for another language (your pick).  
 
 ## Submitting Your Assignment  
 
