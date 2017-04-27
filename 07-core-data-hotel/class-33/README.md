@@ -20,9 +20,6 @@
   * accessing the `ManagedObjectContext` to save and fetch from Core Data.  
   * Inserting new `Entities`  
   * All Core Data related logic  
-* Create a `HotelService` class that should abstract and your application's business logic:  
-  * booking reservations  
-  * checking availability for `Room`s  
 
 ## Submitting Your Assignment  
 

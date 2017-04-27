@@ -6,7 +6,10 @@
 
 ## Technical Requirements  
 * Finish up any functionality from previous labs.  
-* Write 5 additional unit tests, with a minimum of 10 assertions, for your project. What you test is your decision and be creative!  
+* If not done as part of yesterday's stretch goal, create a `HotelService` class that should abstract and your application's business logic:  
+  * booking reservations  
+  * checking availability for `Room`s  
+* Write 5 additional unit tests, with a minimum of 10 assertions, for the Model layer of your project.  
   * Remember these best practices with testing in iOS though:  
     * F.I.R.S.T - Fast, Isolated, Repeatable, Self-verifying, Timely  
     * Do not test Apple's methods(alloc, init, addObject, append, viewDidLoad, etc).  
