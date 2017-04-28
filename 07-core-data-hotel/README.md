@@ -8,4 +8,4 @@
   * [Class 32:](class-32/) UIDatePicker, UIPickerView, Advanced Fetching
   * [Class 33:](class-33/) Unit Testing, TDD, NSFetchedResultsController
   * [Class 34:](class-34/) Testing Core Data, Migration, iCloud, Multiple Context
-  * [Class 45:](class-45/) Professional Development Day 2
+  * [Class 35:](class-35/) Hash Tables
