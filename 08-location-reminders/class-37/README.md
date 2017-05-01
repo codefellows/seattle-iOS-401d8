@@ -1,4 +1,4 @@
-# Week 7 - Class 2:
+# Week 8 - Class 2:
 ## Lab Assignment
 * Using core location, display the users location on the map
 * Add a long press gesture to the map view
@@ -7,7 +7,7 @@
 * **Code Challenge:**
 	* Write a method that detects if two strings are anagrams.
 
-### Reading Assignment (read **before** Class 33):
+### Reading Assignment (read **before** Class 38):
 * Programming in Objective-C
   * **Chapter 10:** More on Variables and Data Types
 * Apple Documentation
