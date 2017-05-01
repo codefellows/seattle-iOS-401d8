@@ -1,4 +1,4 @@
-# Week 7 - Class 4
+# Week 8 - Class 4
 ## Lab Assignment
 * Use Region monitoring and schedule a location based reminder in the AddReminderDetailViewController
 * Add local notifications when the user enters a region
