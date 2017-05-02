@@ -24,7 +24,7 @@
   - What observations or questions do you have about what you've learned so far?  
 4. Once you've submitted your work, complete the merge of `monday-lab` to `master`  
 
-### Reading Assignment (read **before** Class 32):
+### Reading Assignment (read **before** Class 37):
 * Programming In Objective-C
   * **Chapter 8:** Inheritance
 * Apple Documentation

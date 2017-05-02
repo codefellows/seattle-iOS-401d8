@@ -1,4 +1,4 @@
-# Week 7 - Class 3:
+# Week 8 - Class 3:
 ## Lab Assignment
 * Modify your LocationController to monitor regions  
 * Add the ability to sign up and login to your app
@@ -8,7 +8,7 @@
 * **Code Challenge:**
 	* Given a string, return the sum of the digits 0-9 that appear in the string, ignoring all other characters. Return 0 if there are no digits in the string.
 
-### Reading Assignment (read **before** Class 34):
+### Reading Assignment (read **before** Class 39):
 * Programming in Objective-C
   * Chapter 11: Categories and Protocols
 * Apple Documentation
