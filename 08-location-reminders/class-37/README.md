@@ -8,8 +8,6 @@
 * Add a long press gesture to the `mapView`
 * On long press,  add an annotation onto the `mapView`, which has a callout with an accessory button
 * Upon pressing the accessory button, segue to a `AddReminderDetailViewController`
-* **Code Challenge:**
-	* Write a method that detects if two strings are anagrams.
 	
 ## Submitting Your Assignment  
 1. When your work is complete and ready for submission, **open a Pull Request** from `tuesday-lab` to `master`.  
