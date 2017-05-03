@@ -8,12 +8,15 @@
 
 ## Lab Assignment  
 * Add the `ParseUI` framework to your application to provide the user the ability to sign up and login to your app.  
-* Add the additional `PFLogInFieldsFacebook` case of `PFLogInField` enumeration to allow the user sign up with Facebook.  
-* Implement using `NSNotificationCenter` to notify the `ViewController` that a new Reminder was saved to Parse. 
+* Implement using `NSNotificationCenter` to notify the `ViewController` that a new Reminder was saved to Parse.  
 * In `ViewController.m`, implement a method to fetch all the `Reminder` objects saved to parse and, for today, log them to the console.  
 * Add a model class for your `Reminder` by subclassing `PFObject`.  
 * Add a visual map annotation wherever a reminder is added.  
   * use MKCircle to present a map overlay.  
+  
+## Stretch Goal  
+- Add the additional `PFLogInFieldsFacebook` case of `PFLogInField` enumeration to allow the user sign up with Facebook.  
+  - Add the required dependencies to your project to support login with Facebook.  
 
 ## Submitting Your Assignment  
 1. When your work is complete and ready for submission, **open a Pull Request** from `wednesday-lab` to `master`.  
