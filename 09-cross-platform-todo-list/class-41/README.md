@@ -43,12 +43,11 @@
 ## Reading Assignment:(read **before** Class 42)  
 * Programming in Objective-C
   * **Chapter 13:** Underlying C Language Features : Arrays, Functions
-* Apple Documentation + Other
-  * [CocoaPods](https://cocoapods.org/)
-  * [Carthage](https://github.com/Carthage/Carthage)
-  * [Introduction to GCD](https://developer.apple.com/library/ios/documentation/Performance/Reference/GCD_libdispatch_Ref/)
+* Other Articles
+  * [WatchKit](http://nshipster.com/watchkit/)
+  
 
 ## Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
-* [Lecture Slides](https://www.icloud.com/keynote/000B9El9HQy5BwrbrqD5dl4oA#Week9_Day1)
+* [Lecture Slides](https://www.icloud.com/keynote/0zPetjTZEmbhVKhEj-Gf7pkVQ#Week9_Day1)
