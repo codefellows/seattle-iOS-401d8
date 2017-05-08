@@ -25,7 +25,6 @@
 * In `HomeViewController` implement a `UITableView` to present the `Todo`'s  as a list to the user.  
 * Upon creating a new `Todo` in your `NewTodoViewController`, upload the new `Todo` item to the `Firebase Database`.  
 	* This should for the `HomeViewController` to be notified of the updates to the database JSON and update the `UITableView` to reflect the new `Todo`.  
-* Create at least 1 of your own custom NSError domains with corresponding error codes.  
 
 ### Stretch Goals  
 * Building on the `login` logic, implement the `sign in` logic for your application.  
