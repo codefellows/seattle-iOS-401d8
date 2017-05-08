@@ -8,27 +8,29 @@
 
 ## Lab Assignment  
 * Create a new `Single View Application` in Objective-C.  
-* Add the following `Firebase` frameworks to your application:  
-	* `Firebase/Database'  
-	* 'Firebase/Core'  
-	* 'Firebase/Auth'  
-* Using `Firebase Auth` implement a `LoginViewController` to handle the `login` logic for your application.  
+* Add the needed `Firebase` frameworks to your application  
+* Using `Firebase Auth`, implement a `LoginViewController` to handle the `login` logic for your application.  
 	* Users should be able to `login` and `sign up` using their email and a password.  
 	* When the application first launches, it should check if there is currently a user logged in.  
 	* If the user enters wrong credentials, or has not created an account, they should be presented with an appropriate alert prompting them to try again or sign up.  
-* Building on the `login` logic, implement the `sign in` logic for your application.  
- 	* This can be implemented in the `LoginViewController`, or in another `UIViewController` subclass called `SignupViewController`.  
-* Implement a `Log Out` button, to log out the current user when pressed.  
-	* The design of this is up to you, but the `Logout` functionality for the user, should live on the `HomeViewController`.  
+* Implement a `Log Out` button, to `logout` the current user when pressed.  
+	* This button should be implemented as the NavigationItem's **Left** barButtonItem either in Storyboard, or programmatically.  
 * Implement a custom container view controller, called `NewTodoViewController` on your `HomeViewController` to handle the logic for creating new `Todo` items.  
 	* The user should be able to create a todo with *at least* the following information: 
 	 	* Todo - `Title`  
 		* Todo - `Content`  
+* Implement a `+` button as the NavigationItem's **Right** barButtonItem that animates the container view open/closed.  
+	* The design of this is up to you but a simple implementation would be to animate the containerView's height constraint.  
 * In `HomeViewController` implement fetching `Todo` items from `Firebase` and setup listening for updates to the `Database` JSON.  
 * In `HomeViewController` implement a `UITableView` to present the `Todo`'s  as a list to the user.  
 * Upon creating a new `Todo` in your `NewTodoViewController`, upload the new `Todo` item to the `Firebase Database`.  
 	* This should for the `HomeViewController` to be notified of the updates to the database JSON and update the `UITableView` to reflect the new `Todo`.  
 * Create at least 1 of your own custom NSError domains with corresponding error codes.  
+
+### Stretch Goals  
+* Building on the `login` logic, implement the `sign in` logic for your application.  
+ 	* This can be implemented in the `LoginViewController`, or in another `UIViewController` subclass called `SignupViewController`.  
+	
 
 ## Submitting Your Assignment  
 1. When your work is complete and ready for submission, **open a Pull Request** from `monday-lab` to `master`.  
