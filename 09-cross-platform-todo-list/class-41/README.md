@@ -20,7 +20,7 @@
 	 	* Todo - `Title`  
 		* Todo - `Content`  
 * Implement a `+` button as the NavigationItem's **Right** barButtonItem that animates the container view open/closed.  
-	* The design of this is up to you but a simple implementation would be to animate the containerView's height constraint.  
+	* The architecture of this is up to you but a simple implementation would be to animate the containerView's height constraint.  
 * In `HomeViewController` implement fetching `Todo` items from `Firebase` and setup listening for updates to the `Database` JSON.  
 * In `HomeViewController` implement a `UITableView` to present the `Todo`'s  as a list to the user.  
 * Upon creating a new `Todo` in your `NewTodoViewController`, upload the new `Todo` item to the `Firebase Database`.  
