@@ -8,7 +8,7 @@
 ## Lab Assignment  
 * Add a WatchKit target to your application to support the Apple Watch.  
   * Implement a table to display a list of todos.  
-  * When the user taps on a Todo on the watch this should present another WKInterfaceController that displays the details about the selected Todo.  
+  * When the user taps on a Todo on the watch this should present another `WKInterfaceController` that displays the details about the selected Todo.  
 * Add a TVOS target to your application to provide support for Apple TV.  
   * Create a single view application that uses one `ViewController` to display a `tableView` of todos.  
   * When the user clicks on a Todo on the TV this should present another `UIViewController` that displays the details about the selected Todo.  
