@@ -22,7 +22,7 @@
 ## Other Resources
 * [Reading Assignments](../../Resources/ra-grading-standard/)
 * [Grading Rubrics](../../Resources/)
-* [Lecture Slides](https://www.icloud.com/keynote/000P80wi4TokLVnhVdqmMY2LA#Week9-Class3)
+* [Lecture Slides](https://www.icloud.com/keynote/0qaf2vQnpzd1RYtCnXupGoXow#Week9_Day3)
 
 
 

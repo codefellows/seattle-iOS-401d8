@@ -6,6 +6,6 @@
 ## Daily Breakdown
   * [Class 41:](class-41/) Firebase, Container View Controllers, NSError  
   * [Class 42:](class-42/) WatchKit, TVOS, GCD  
-  * [Class 43:](class-43/) 
+  * [Class 43:](class-43/) Firebase as an API, GCD vs Operation Queues, Bridging Headers
   * [Class 44:](class-44/) 
   * [Class 45:](class-45/) Project Week Preparations  
