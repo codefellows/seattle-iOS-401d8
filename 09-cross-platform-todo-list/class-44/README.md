@@ -3,7 +3,6 @@
 ## User Stories  
 - As a User, I want to be able to view and add new Todos from my watch, to avoid the inconvenience of taking my phone out of my pocket.  
 - As a Developer, I want to implement WatchConnectivity Framework, to allow my iOS and WatchOS applications to stay syncronized.  
-- As a Developer, I want to 
 
 ## Lab Assignment  
 - Implement the WatchConnectivity Framework into your AppDelegate to pass Todo updates from Firebase back to your watch Application.  
